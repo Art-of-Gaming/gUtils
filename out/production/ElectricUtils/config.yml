@@ -1,0 +1,29 @@
+# ░█████╗░░█████╗░███╗░░██╗███████╗██╗░██████╗░
+# ██╔══██╗██╔══██╗████╗░██║██╔════╝██║██╔════╝░
+# ██║░░╚═╝██║░░██║██╔██╗██║█████╗░░██║██║░░██╗░
+# ██║░░██╗██║░░██║██║╚████║██╔══╝░░██║██║░░╚██╗
+# ╚█████╔╝╚█████╔╝██║░╚███║██║░░░░░██║╚██████╔╝
+# ░╚════╝░░╚════╝░╚═╝░░╚══╝╚═╝░░░░░╚═╝░╚═════╝░
+# Plugin Made by Oliver Salgueiro (Discord: Javiy.#7549)
+#
+# Should we send welcome message to players on join?
+WELCOME-MESSAGE-ENABLED: true
+
+# Should we enable the utils reload command?
+# Permission: utils.admin
+RELOAD-COMMAND-ENABLED: true
+
+# Should we enable help message?
+HELP-COMMAND-ENABLED: true
+
+# Should we enable teamspeak command?
+TEAMSPEAK-COMMAND-ENABLED: true
+
+# Should we enable discord command?
+DISCORD-COMMAND-ENABLED: true
+
+# Should we enable store command?
+STORE-COMMAND-ENABLED: true
+
+# Should we enable twitter command?
+TWITTER-COMMAND-ENABLED: true

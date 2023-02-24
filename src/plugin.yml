@@ -1,0 +1,25 @@
+main: dev.qjaviy.electricutils.ElectricUtils
+version: 1.0.1
+name: ElectricUtils
+author: qJaviy
+description: Hi!
+
+commands:
+  help:
+    description: A simple help command.
+  utils:
+    description: A simple main command.
+  discord:
+    description: A simple social media command.
+  dc:
+    description: A simple social media command.
+  teamspeak:
+    description: A simple social media command.
+  ts:
+    description: A simple social media command.
+  twitter:
+    description: A simple social media command.
+  store:
+    description: A simple store command.
+  buy:
+    description: A simple store command.
