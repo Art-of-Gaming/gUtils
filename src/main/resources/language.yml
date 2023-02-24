@@ -1,0 +1,82 @@
+# ███╗░░░███╗███████╗░██████╗░██████╗░█████╗░░██████╗░███████╗░██████╗
+# ████╗░████║██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝░██╔════╝██╔════╝
+# ██╔████╔██║█████╗░░╚█████╗░╚█████╗░███████║██║░░██╗░█████╗░░╚█████╗░
+# ██║╚██╔╝██║██╔══╝░░░╚═══██╗░╚═══██╗██╔══██║██║░░╚██╗██╔══╝░░░╚═══██╗
+# ██║░╚═╝░██║███████╗██████╔╝██████╔╝██║░░██║╚██████╔╝███████╗██████╔╝
+#  ╚═╝░░░░░╚═╝╚══════╝╚═════╝░╚═════╝░╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░
+#Plugin made by Oliver Salgueiro (Discord: Javiy.#7549)
+DISABLED-FEATURE:
+  - '&cThis feature is currently disabled.'
+NO-PERMISSION-MESSAGE:
+  - '&cYou cannot use that utility command.'
+WELCOME-MESSAGE:
+  - '&6&m----------------------------------'
+  - '&eWelcome to the server &c%player%&e!'
+  - '&6&m----------------------------------'
+RELOAD-CONFIG-MESSAGE:
+  - '&9Utils &7(v%version%) &efiles have been reloaded &7[Made by qJaviy&7]'
+PLUGIN-HELP-MESSAGE:
+  - '&6&m----------------------------------'
+  - '&9Main Commands:'
+  - '&e/utils help &7- See how the commands works.'
+  - '&e/utils reload &7- Reload the plugin configuration files.'
+  - ''
+  - '&9Other Commands:'
+  - '&e/help &7- See server information.'
+  - ''
+  - '&9Social Commands:'
+  - '&e/teamspeak &7- See our teamspeak.'
+  - '&e/discord &7- See our discord.'
+  - '&e/twitter &7- See our twitter.'
+  - '&e/store &7- See our store.'
+  - ''
+  - '&eMade for &6@ElectricHCF &7by &6qJaviy#7549'
+  - '&6&m----------------------------------'
+HELP-MESSAGE:
+  - '&6&m----------------------------------'
+  - '&9Map information:'
+  - '&eMap Kit &7- &7Prot 1, Sharp 1.'
+  - '&eFaction Size &7- &76 mans, 0 allies.'
+  - '&eAuto-brewer ticks &7- &720'
+  - ''
+  - '&9Commands Information:'
+  - '&e/gemshop &7- &7Obtain enchantments and abilities.'
+  - '&e/items &7- &7See how abilities works.'
+  - '&e/warps &7- &7Travel around the map.'
+  - '&e/hg &7- &7See how hungergames works.'
+  - '&e/support &7- &7Support your favorite content creator.'
+  - '&e/daily &7- &7Receive daily rewards.'
+  - '&e/playtime &7- &7Receive prizes by playing.'
+  - ''
+  - '&9Links:'
+  - '&eTeamSpeak &7- &7ts.electrich.cf'
+  - '&eDiscord &7- &7discord.gg/electrichcf'
+  - '&eStore &7- &7store.electrich.cf'
+  - '&6&m----------------------------------'
+VERSION-MESSAGE:
+  - '&6&m----------------------------------'
+  - '&eThis server is running &9Utils &7(v%version%)'
+  - '&7The plugin was made by &9qJaviy#7549'
+  - '&6&m----------------------------------'
+
+SOCIALS:
+  TEAMSPEAK-MESSAGE:
+    - '&6&m----------------------------------'
+    - '&3TeamSpeak &7(Socials)'
+    - '&ets.electrich.cf'
+    - '&6&m----------------------------------'
+  DISCORD-MESSAGE:
+    - '&6&m----------------------------------'
+    - '&9Discord &7(Socials)'
+    - '&ediscord.electrich.cf'
+    - '&6&m----------------------------------'
+  TWITTER-MESSAGE:
+    - '&6&m----------------------------------'
+    - '&bTwitter &7(Socials)'
+    - '&e@ElectricHCF'
+    - '&6&m----------------------------------'
+  STORE-MESSAGE:
+    - '&6&m----------------------------------'
+    - '&aStore &7(Socials)'
+    - '&estore.electrich.cf'
+    - '&6&m----------------------------------'
